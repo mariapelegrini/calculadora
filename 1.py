@@ -13,7 +13,9 @@ if calculo == 1 :
 if calculo == 2 :
     print(sub)
     
-    
+if calculo == 3 :
+     print(mult)
+      
 
     
 
