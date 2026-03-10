@@ -16,7 +16,8 @@ if calculo == 2 :
 if calculo == 3 :
      print(mult)
       
-
+if calculo == 4 :
+    print(div)
     
 
     
