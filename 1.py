@@ -10,7 +10,9 @@ calculo = int(input("Agora digite 1 para soma , 2 para subtração, 3 para multi
 if calculo == 1 :
     print(soma)
 
-
+if calculo == 2 :
+    print(sub)
+    
     
 
     
